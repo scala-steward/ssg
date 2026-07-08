@@ -28,7 +28,7 @@ object Versions {
   val scalaJavaTime    = "2.6.0"
 
   // Multiarch
-  val multiarch           = "0.3.0"
+  val multiarch           = "0.4.0"
   val treeSitterProviders = "0.1.0"
 
   // Tests
