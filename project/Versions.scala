@@ -32,6 +32,6 @@ object Versions {
   val treeSitterProviders = "0.1.0"
 
   // Tests
-  val munit           = "1.3.5"
+  val munit           = "1.3.6"
   val munitScalacheck = "1.3.0"
 }
