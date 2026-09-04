@@ -33,5 +33,5 @@ object Versions {
 
   // Tests
   val munit           = "1.3.5"
-  val munitScalacheck = "1.3.0"
+  val munitScalacheck = "1.3.1"
 }
